@@ -1,0 +1,7 @@
+/content/.DS_Store
+.DS_Store
+public/*
+themes/*
+!public/.gitkeep
+!themes/.gitkeep
+

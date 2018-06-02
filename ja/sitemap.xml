@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/2018-05-28_temp_service_down/</loc>
+    <lastmod>2018-05-28T13:00:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018-03-30_server_replace/</loc>
+    <lastmod>2018-03-30T19:47:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018-03-27_server_maintenance/</loc>
+    <lastmod>2018-03-27T18:02:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018-03-13-fabble_maintenance/</loc>
+    <lastmod>2018-03-13T08:02:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018-01-15-support/</loc>
+    <lastmod>2018-01-15T09:13:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018-01-02-management-organization/</loc>
+    <lastmod>2018-01-02T15:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2017-02-06-the_system_trouble/</loc>
+    <lastmod>2017-02-07T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2017-02-06-the_system_trouble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/posts/2017-02-06-the_system_trouble/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/2017-02-01-fabble_maintenance_3/</loc>
+    <lastmod>2017-02-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2017-01-12-fabble_maintenance_2/</loc>
+    <lastmod>2017-01-12T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/2017-01-12-fabble_maintenance_2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/posts/2017-01-12-fabble_maintenance_2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/2017-01-10-fabble_maintenance/</loc>
+    <lastmod>2017-01-10T10:10:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-05-28T13:00:17+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-28T13:00:17+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/topics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="/topics/"
+                />
+  </url>
+  
+</urlset>

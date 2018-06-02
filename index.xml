@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabble Support Blog</title>
+    <link>/</link>
+    <description>Recent content on Fabble Support Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>(c) 2018 Copyright Fabble Support Team</copyright>
+    <lastBuildDate>Mon, 28 May 2018 13:00:17 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>サービス一時停止のお詫び</title>
+      <link>/posts/2018-05-28_temp_service_down/</link>
+      <pubDate>Mon, 28 May 2018 13:00:17 +0000</pubDate>
+      
+      <guid>/posts/2018-05-28_temp_service_down/</guid>
+      <description>平素は、fabble.ccをご利用いただきありがとうございます。 5月28日早朝から21時ごろまで、fabble.ccが表示されなくなる不具合</description>
+    </item>
+    
+    <item>
+      <title>メンテナンス完了のご案内</title>
+      <link>/posts/2018-03-30_server_replace/</link>
+      <pubDate>Fri, 30 Mar 2018 19:47:45 +0900</pubDate>
+      
+      <guid>/posts/2018-03-30_server_replace/</guid>
+      <description>平素はFabble.ccのご利用をいただきありがとうございます。 本日、サーバの移行作業を実施し、無事完了いたしました。 作業中はサービスのご利</description>
+    </item>
+    
+    <item>
+      <title>サーバ入れ替えに伴うメンテナンスのご案内</title>
+      <link>/posts/2018-03-27_server_maintenance/</link>
+      <pubDate>Tue, 27 Mar 2018 18:02:36 +0900</pubDate>
+      
+      <guid>/posts/2018-03-27_server_maintenance/</guid>
+      <description>平素はFabble.ccをご利用いただきありがとうございます。 Fabble.ccの運営に使用しているサーバを移行するため、３月２９日、３０日</description>
+    </item>
+    
+    <item>
+      <title>Fabbleメンテナンスと一部機能提供の一時停止についてのご案内</title>
+      <link>/posts/2018-03-13-fabble_maintenance/</link>
+      <pubDate>Tue, 13 Mar 2018 08:02:57 +0000</pubDate>
+      
+      <guid>/posts/2018-03-13-fabble_maintenance/</guid>
+      <description>平素は、fabble.ccをご利用いただきありがとうございます。 本日、fabble.ccのメンテナンスと一部機能の提供を一時的に停止いたしま</description>
+    </item>
+    
+    <item>
+      <title>企業ロゴ掲載についてのご案内</title>
+      <link>/posts/2018-01-15-support/</link>
+      <pubDate>Mon, 15 Jan 2018 09:13:38 +0000</pubDate>
+      
+      <guid>/posts/2018-01-15-support/</guid>
+      <description>本日、fabble.ccのロゴ掲載ルールを変更し、ファブ地球社会コンソーシアム会員企業で、fabble.ccの サポートをお申し出いただいた会</description>
+    </item>
+    
+    <item>
+      <title>fabble.ccの運営体制について</title>
+      <link>/posts/2018-01-02-management-organization/</link>
+      <pubDate>Tue, 02 Jan 2018 15:00:00 +0900</pubDate>
+      
+      <guid>/posts/2018-01-02-management-organization/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fabble.ccの障害と今後の運営について</title>
+      <link>/posts/2017-02-06-the_system_trouble/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/posts/2017-02-06-the_system_trouble/</guid>
+      <description>&lt;p&gt;この度のfabble.ccの運用停止にともない、利用者の皆様には大変ご迷惑をおかけしてしまい、申し訳ございませんでした。改めてお詫びを申し上げます。この事態の経緯については、１月１２日付けのお詫びにてご説明させていただきましたが、以下に、改めてご説明させていただきます。また、今後の運営の方針について、現段階で可能な範囲で以下にご報告させていただきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fabble.ccの運用再開について</title>
+      <link>/posts/2017-02-01-fabble_maintenance_3/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/posts/2017-02-01-fabble_maintenance_3/</guid>
+      <description>fabble.cc利用者各位 fabble.ccの運用が停止し、利用者の皆様には大変ご迷惑をおかけしております。改めてお詫び申し上げます。 デー</description>
+    </item>
+    
+    <item>
+      <title>fabble.ccの障害についてのご報告</title>
+      <link>/posts/2017-01-12-fabble_maintenance_2/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/posts/2017-01-12-fabble_maintenance_2/</guid>
+      <description>&lt;p&gt;fabble.cc利用者各位&lt;/p&gt;
+
+&lt;p&gt;この度は、fabble.ccの運用が停止し、利用者の皆様には大変ご迷惑をおかけしてしまい、申し訳ありません。また、皆様へのご報告が遅れましたことをおわび申し上げます。現在のfabble.ccの状況及び、今後について以下ご報告いたします。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fabbleは現在メンテナンス中です。</title>
+      <link>/posts/2017-01-10-fabble_maintenance/</link>
+      <pubDate>Tue, 10 Jan 2017 10:10:23 +0900</pubDate>
+      
+      <guid>/posts/2017-01-10-fabble_maintenance/</guid>
+      <description>Fabbleは現在メンテナンス中です。 ご不便おかけします。</description>
+    </item>
+    
+  </channel>
+</rss>

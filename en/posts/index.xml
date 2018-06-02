@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fabble Support Blog</title>
+    <link>/en/posts/</link>
+    <description>Recent content in Posts on Fabble Support Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) 2018 Copyright Fabble Support Team</copyright>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The system trouble and future operation of fabble.cc</title>
+      <link>/en/posts/2017-02-06-the_system_trouble/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/en/posts/2017-02-06-the_system_trouble/</guid>
+      <description>&lt;p&gt;One again, we apologize for the great inconveniences caused by the halting of the fabble.cc web site. We explained the background for this trouble in the announcement dated January 12. Below, we quote the relevant parts from the notice/ apology, and report to you about the policies for the future operation of the site, to the extent possible at this point.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The announcement on system trouble at fabble.cc</title>
+      <link>/en/posts/2017-01-12-fabble_maintenance_2/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/en/posts/2017-01-12-fabble_maintenance_2/</guid>
+      <description>&lt;p&gt;Dear Fabble users,&lt;/p&gt;
+
+&lt;p&gt;We are sorry for the ongoing system trouble at fabble.cc, and this belated announcement. We would like to report to you the current status of fabble.cc and our next steps.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
